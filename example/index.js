@@ -1,6 +1,6 @@
 var Pie = require("../lib");
 
-var p = new Pie(200, 200, [
+var p = new Pie(30, [
     { name: "Water", value: 70, color: "#3498db" }
   , { name: "Land", value: 30, color: "#f1c40f" }
 ], {
