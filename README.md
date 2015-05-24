@@ -47,6 +47,8 @@ p.colors = {};
 console.log(p.toString());
 ```
 
+![](http://i.imgur.com/6VA7578.png)
+
 ## Documentation
 ### `CliPie(r, data, options)`
 Creates a new instance of `CliPie`.
