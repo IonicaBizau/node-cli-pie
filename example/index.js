@@ -11,3 +11,13 @@ console.log(p.toString());
 p.options.no_ansi = true;
 
 console.log(p.toString());
+p.add({
+    label: "Test"
+  , value: 20
+});
+
+console.log(p.toString());
+p.options.no_ansi = false;
+p.colors = {};
+
+console.log(p.toString());
