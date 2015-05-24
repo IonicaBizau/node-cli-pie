@@ -8,3 +8,6 @@ var p = new Pie(5, [
 });
 
 console.log(p.toString());
+p.options.no_ansi = true;
+
+console.log(p.toString());
