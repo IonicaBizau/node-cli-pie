@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IonicaBizau/gh.js.git"
+    "url": "git@github.com:IonicaBizau/cli-pie.git"
   },
   "keywords": [
     "pie",
@@ -33,7 +33,7 @@
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/gh.js/issues"
+    "url": "https://github.com/IonicaBizau/cli-pie/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/gh.js"
+  "homepage": "https://github.com/IonicaBizau/cli-pie"
 }
