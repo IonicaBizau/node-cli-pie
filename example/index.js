@@ -16,7 +16,9 @@ p.add({
   , value: 20
 });
 
+p.options.no_ansi = true;
 console.log(p.toString());
+
 p.options.no_ansi = false;
 p.colors = {};
 
