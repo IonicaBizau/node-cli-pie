@@ -1,0 +1,39 @@
+{
+  "name": "cli-pie",
+  "version": "1.0.0",
+  "description": "Generate pie charts in terminal and text mode.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+    "cli-circle": "^2.1.0",
+    "couleurs": "^3.0.0",
+    "flatcolors": "^1.0.0",
+    "overlap": "^1.5.0",
+    "ul": "^2.1.0",
+    "cli-graph": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/gh.js.git"
+  },
+  "keywords": [
+    "pie",
+    "chart",
+    "cli",
+    "terminal",
+    "text"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/gh.js/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/gh.js"
+}
