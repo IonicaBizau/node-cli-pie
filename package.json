@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/IonicaBizau/node-cli-pie",
   "dependencies": {
-    "cli-circle": "^2.1.0",
-    "couleurs": "^3.0.0",
-    "flatcolors": "^1.0.0",
-    "ul": "^2.1.0"
+    "cli-circle": "^3.0.0",
+    "couleurs": "^5.0.0",
+    "flatcolors": "^3.0.0",
+    "ul": "^5.0.0"
   },
   "devDependencies": {
     "mocha": "^2.2.5"
