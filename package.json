@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IonicaBizau/cli-pie.git"
+    "url": "git@github.com:IonicaBizau/node-cli-pie.git"
   },
   "keywords": [
     "pie",
@@ -24,9 +24,9 @@
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/cli-pie/issues"
+    "url": "https://github.com/IonicaBizau/node-cli-pie/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/cli-pie",
+  "homepage": "https://github.com/IonicaBizau/node-cli-pie",
   "dependencies": {
     "cli-circle": "^2.1.0",
     "couleurs": "^3.0.0",
