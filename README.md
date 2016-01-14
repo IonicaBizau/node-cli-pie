@@ -1,8 +1,8 @@
 [![cli-pie](http://i.imgur.com/FcSpq0W.png)](#)
 
-# cli-pie [![Support this project][donate-now]][paypal-donations]
+# cli-pie [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/node-cli-pie.svg)](https://travis-ci.org/IonicaBizau/node-cli-pie/) [![Version](https://img.shields.io/npm/v/cli-pie.svg)](https://www.npmjs.com/package/cli-pie) [![Downloads](https://img.shields.io/npm/dt/cli-pie.svg)](https://www.npmjs.com/package/cli-pie) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Generate pie charts in terminal and text mode.
+> Generate pie charts in terminal and text mode.
 
 [![cli-pie](http://i.imgur.com/6VA7578.png)](#)
 
