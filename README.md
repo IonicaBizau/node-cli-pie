@@ -1,3 +1,4 @@
+
 [![cli-pie](http://i.imgur.com/FcSpq0W.png)](#)
 
 # cli-pie [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/node-cli-pie.svg)](https://travis-ci.org/IonicaBizau/node-cli-pie/) [![Version](https://img.shields.io/npm/v/cli-pie.svg)](https://www.npmjs.com/package/cli-pie) [![Downloads](https://img.shields.io/npm/dt/cli-pie.svg)](https://www.npmjs.com/package/cli-pie) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
@@ -6,13 +7,16 @@
 
 [![cli-pie](http://i.imgur.com/6VA7578.png)](#)
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save cli-pie
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -49,7 +53,8 @@ p.colors = {};
 console.log(p.toString());
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `CliPie(r, data, options)`
 Creates a new instance of `CliPie`.
@@ -120,19 +125,21 @@ Stringifies the pie.
 #### Return
 - **String** The stringified pie.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`gh-polyglot`](https://github.com/IonicaBizau/node-gh-polyglot)
 
- - [`git-stats`](https://github.com/IonicaBizau/git-stats)
+ - [`gh-polyglot`](https://github.com/IonicaBizau/node-gh-polyglot)—Get language stats about GitHub users and repositories.
+ - [`git-stats`](https://github.com/IonicaBizau/git-stats)—Local git statistics including GitHub-like contributions calendars.
+ - [`github-stats`](https://github.com/IonicaBizau/github-stats)—Visualize stats about GitHub users and projects in your terminal.
+ - [`learn-memory-statistics-cli`](https://github.com/cedced19/learn-memory-statistics-cli#readme) (by Cédric JUNG)—A CLI to see statistics from your Learn Memory server.
 
- - [`github-stats`](https://github.com/IonicaBizau/github-stats)
-
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
