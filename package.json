@@ -1,6 +1,6 @@
 {
   "name": "cli-pie",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Generate pie charts in terminal and text mode.",
   "main": "lib/index.js",
   "directories": {
@@ -39,5 +39,16 @@
   "blah": {
     "h_img": "http://i.imgur.com/FcSpq0W.png",
     "ex_img": "http://i.imgur.com/6VA7578.png"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
