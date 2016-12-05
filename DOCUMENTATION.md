@@ -12,6 +12,9 @@ Creates a new instance of `CliPie`.
  - `flat` (Boolean): If `true`, flat colors will be used (default: `true`).
  - `chr` (String): The character to draw the pie (default: `" "`).
  - `no_ansi` (Boolean): If `true`, ansi styles will not be used.
+ - `legend` (Boolean): If `true`, a legend is added next to the pie.
+ - `display_total` (Boolean): If `true`, the total is added to the legend.
+ - `total_label` (String): The label for the total (default: `Total`)
  - `circle_opts` (Object): The options passed to the
    [`cli-circle`](https://github.com/IonicaBizau/node-cli-circle) module,
    which uses the
