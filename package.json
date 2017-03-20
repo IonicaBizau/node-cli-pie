@@ -1,6 +1,6 @@
 {
   "name": "cli-pie",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Generate pie charts in terminal and text mode.",
   "main": "lib/index.js",
   "directories": {
@@ -21,7 +21,7 @@
     "terminal",
     "text"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-cli-pie/issues"
@@ -44,12 +44,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
