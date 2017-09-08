@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Creates a new instance of `CliPie`.
 
 #### Params
+
 - **Number** `r`: The radius value.
 - **Array** `data`: An array of objects in the following format:
 - **Object** `options`: An object containing the following fields:
@@ -29,6 +30,7 @@ CliPie.Item
 Creates a new `CliPie.Item` instance.
 
 #### Params
+
 - **Object** `obj`: The `CliPie.Item` data containing:
  - `value` (Number): The item value.
  - `label` (String): The item label.
@@ -42,6 +44,7 @@ Creates a new `CliPie.Item` instance.
 Adds new items in the cli pie.
 
 #### Params
+
 - **Object** `item`: The item data.
 
 #### Return
@@ -51,6 +54,7 @@ Adds new items in the cli pie.
 Adds foreground or/and background color(s) to the provided text.
 
 #### Params
+
 - **String** `text`: The text to color.
 - **String** `color`: The color value.
 - **Boolean** `fg`: If `true`, the function will modify the foreground color of the text (default: `true`).
@@ -63,6 +67,7 @@ Adds foreground or/and background color(s) to the provided text.
 Generates an unique color.
 
 #### Params
+
 - **String** `cColor`: The provided color.
 
 #### Return
