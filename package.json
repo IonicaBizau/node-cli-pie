@@ -1,6 +1,6 @@
 {
   "name": "cli-pie",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Generate pie charts in terminal and text mode.",
   "main": "lib/index.js",
   "directories": {
@@ -50,6 +50,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
