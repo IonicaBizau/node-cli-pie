@@ -1,6 +1,6 @@
 {
   "name": "cli-pie",
-  "version": "2.3.3",
+  "version": "2.4.0",
   "description": "Generate pie charts in terminal and text mode.",
   "main": "lib/index.js",
   "directories": {
