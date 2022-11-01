@@ -34,7 +34,7 @@
     "ul": "^5.0.0"
   },
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^10.1.0"
   },
   "blah": {
     "h_img": "http://i.imgur.com/FcSpq0W.png",
